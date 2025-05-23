@@ -19,3 +19,13 @@ $ git remote add origin https://github.com/ndeepak/skills-communicate-using-mark
 var myVar = "Hello, world!";
 ```
 
+- [x] List syntax is required
+- [x] This item is complete
+
+
+- [ ] This item is not complete
+
+
+- [ ] complete these exercise on GitHub
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
